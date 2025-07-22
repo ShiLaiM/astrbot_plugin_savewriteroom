@@ -1,5 +1,5 @@
-name: helloworld # 这是你的插件的唯一识别名。
-desc: 这是 AstrBot 的默认插件，支持关键词回复。 # 插件简短描述
-version: v1.3 # 插件版本号。格式：v1.1.1 或者 v1.1
-author: Soulter # 作者
-repo: https://github.com/Soulter/helloworld # 插件的仓库地址
+name: 鸽子群码字房呼唤 # 这是你的插件的唯一识别名。
+desc: 自用——用于把作家助手的信息存到配置里然后通过'码字房'三个字来提供所有房间。 # 插件简短描述
+version: v0.1 # 插件版本号。格式：v1.1.1 或者 v1.1
+author: ShiLaiM # 作者
+repo: https://github.com/ShiLaiM/astrbot_plugin_savewriteroom.git # 插件的仓库地址

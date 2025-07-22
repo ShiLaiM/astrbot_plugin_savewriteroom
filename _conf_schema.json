@@ -1,0 +1,8 @@
+{
+  "impactArr": {
+    "description": "房间储存信息",
+    "type": "list",
+    "hint": "房间储存的信息",
+    "obvious_hint": true
+  }
+}
